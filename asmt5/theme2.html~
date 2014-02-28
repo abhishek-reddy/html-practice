@@ -1,0 +1,40 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>theme page</title>
+</head>
+
+<body>
+<div class="wrap container_12">
+<header class="clearfix">
+
+<H1>MY WEBSITE</H1>
+
+<nav>
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="#">Our service</a></li>
+<li><a href="#">How we work</a></li>
+<li><a href="#">Testimonials</a></li>
+</ul>
+</nav>
+
+<img src="pic1.jpeg">
+<img src="pic2.jpeg">
+</header>
+
+<div class="main clearfix">
+
+<section class="grid_4">
+<h2>How we work</h2>
+<p>For some of our team, Vasudhaika is their first job of a professional career and for other seasoned technocrats , Vasudhaika is far from the maddening crowd. At Vasudhaika we experiment with ideas that are met with hesitation elsewhere. Innovation and the right talent is the key to its growth where the team members are free to try new things. Vasudhaika supports open culture, Team members are encouraged to approach tasks through Technologies that would enhance their skills. Vasudhaika is also biased in rewarding ability over experience. </p>
+</section>
+
+<section class="grid_4">
+<h2>Services we offer</h2>
+<p>Vasudhaika is also biased in rewarding ability over experience. Higher education is encouraged and participation in Training programs are part of the learning curve. Employees have access to world class digital libraries with every alternate Saturdays termed as "Edge Day" a dedicated, comprehensive development program. Monthly Newsletter captures every milestone, Birthdays, employee of the month, Sports champs and celebrates the vivid and colourful festivals of India while keeping abreast with events across the organisation. </p>
+</section>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,90 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>grid example</title>
+<link rel="stylesheet" href="cssfiles/reset.css">
+<link rel="stylesheet" href="cssfiles/text.css">
+<link rel="stylesheet" href="cssfiles/960_12_col.css">
+<link rel="stylesheet" href="cssfiles/styles.css">
+
+</head>
+
+<body>
+
+<div class="wrap container_12">
+<header class="clearfix">
+<h1 class="grid_4">first website</h1>
+<nav class="grid_8">
+<ul>
+<li><a href="#">home</a></li>
+<li><a href="#">contact</a></li>
+<li><a href="#">about</a></li>
+</ul>
+</nav>
+</header>
+
+<div class="main clearfix">
+
+<div class="content grid_9">
+
+<section class="grid_3 alpha">
+<div>
+<h1>what we are</h1>
+<p>Vasudhaika" in Sanskrit means 'Universal' . We believe that the benefits of IT should be available to the complete spectrum of humanity. Hence we work on both sides of the "DIGITAL DIVIDE".</p>
+</div>
+</section>
+
+<section class="grid_3">
+<div>
+<h1>what we are</h1>
+<p>Vasudhaika" in Sanskrit means 'Universal' . We believe that the benefits of IT should be available to the complete spectrum of humanity. Hence we work on both sides of the "DIGITAL DIVIDE".</p>
+</div>
+</section>
+
+<section class="grid_3 omega">
+<div>
+<h1>what we are</h1>
+<p>Vasudhaika" in Sanskrit means 'Universal' . We believe that the benefits of IT should be available to the complete spectrum of humanity. Hence we work on both sides of the "DIGITAL DIVIDE".</p>
+</div>
+</section>
+
+<section class="grid_3 alpha">
+<div>
+<h1>what we are</h1>
+<p>Vasudhaika" in Sanskrit means 'Universal' . We believe that the benefits of IT should be available to the complete spectrum of humanity. Hence we work on both sides of the "DIGITAL DIVIDE".</p>
+</div>
+</section>
+
+<section class="grid_3">
+<div>
+<h1>what we are</h1>
+<p>Vasudhaika" in Sanskrit means 'Universal' . We believe that the benefits of IT should be available to the complete spectrum of humanity. Hence we work on both sides of the "DIGITAL DIVIDE".</p>
+</div>
+</section>
+
+<section class="grid_3 omega">
+<div>
+<h1>what we are</h1>
+<p>Vasudhaika" in Sanskrit means 'Universal' . We believe that the benefits of IT should be available to the complete spectrum of humanity. Hence we work on both sides of the "DIGITAL DIVIDE".</p>
+</div>
+</section>
+
+
+</div>
+
+<aside class="grid_3">
+<ul>
+<li>item</li>
+<li>item</li>
+<li>item</li>
+<li>item</li>
+<li>item</li>
+</ul>
+</aside>
+
+
+</div>
+</div>
+
+</body>
+</html>
