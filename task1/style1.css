@@ -45,9 +45,14 @@ padding-right:15px;
 	font-size:15px;
 	
 }
-	
+   .second{
+    width: 500px;
+    float: right;
+    margin-right: 50px;
+}
+}
 .second h2{
-	margin-left:250px;
+	margin-left:50px;
 	margin-top:50px;
 	
 }
@@ -82,8 +87,7 @@ margin-bottom:20px;
 
 form{
 	border:solid 1px #BDBDBD;
-	margin-right:275px;
-	margin-left:225px;
+	
 }
 
 
@@ -104,5 +108,36 @@ header
 
 .main{
 	border-bottom:solid 2px black;
-	height:500px;
+	height:450px;
 }
+
+.t{
+	float:left;
+	margin-left:50px;
+	margin-right:100px;
+}
+.s{
+	float:left;
+}
+
+.t ul li{
+	font-size:13px;	
+}
+.s ul li{
+	font-size:13px;	
+}
+.t h4{
+	margin-left:25px;
+}
+.s h4{
+	margin-left:25px;
+}
+.t ul li a:hover{
+	text-decoration:underline;
+	font-size:14px;
+}
+.s ul li a:hover{
+	text-decoration:underline;
+	font-size:14px;
+}
+	
